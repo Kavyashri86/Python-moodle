@@ -1,5 +1,5 @@
 Develop a Python program that safely performs division between two numbers provided by the user. Handle exceptions like division by zero and non-numeric inputs.
-
+ 
 Input Format: Two lines of input, each containing a number.
 
 Output Format: Print the result of the division or an error message if an exception occurs.
